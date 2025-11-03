@@ -218,12 +218,12 @@ a {
   display: flex;
   align-items: center;
   gap: 24px;
-  border-radius: 0px 0px 4px 4px;
 }
 
 .team-item {
   background-color: #fff;
   width: calc((100% - 24px * 3 + 30px) / 4);
+  border-radius: 0 0 4px 4px;
 }
 
 .team-item-title {
